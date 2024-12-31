@@ -1,9 +1,9 @@
 <h2 align="center">
-    ─˹ʀɪʏᴧ ꭙ ᴍᴜsɪᴄ˼─
+    ─˹𝐒ᴀʀ‌‌ᴇɢᴀмᴀ 𝐌мᴜѕɪᴄ ᯤ‌˼─
 
 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝙸𝚈𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝗧𝗘𝗔𝗠+𝗥𝗜𝗬𝗔)](https://github.com/ksdofficial8/Riya_music)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+𝚆𝙴𝙻𝙲𝙾𝙼𝙴+𝚃𝙾+𝚁𝙸𝚈𝙰+𝙼𝚄𝚂𝙸𝙲+𝚁𝙴𝙿𝙾+;ㅤ+𝚃𝙷𝙸𝚂+𝙸𝚂+𝙰+𝙰𝙳𝚅𝙰𝙽𝙲𝙴+𝙼𝚄𝚂𝙸𝙲+𝙱𝙾𝚃;𝙿𝙾𝚆𝙴𝚁𝙴𝙳+𝙱𝚈+☞+𝐒ᴀʀ‌‌ᴇɢᴀмᴀ 𝐌мᴜѕɪᴄ ᯤ‌)](https://github.com/ksdofficial8/Riya_music)
 
 
 
