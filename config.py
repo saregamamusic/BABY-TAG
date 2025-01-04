@@ -141,12 +141,12 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/oMa.jpg"
+    "START_IMG_URL", "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/8kifut.jpg"
+    "PING_IMG_URL", "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/rdo.mp4"
+PLAYLIST_IMG_URL = "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2vq8oz.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2vq8oz.jpg"
