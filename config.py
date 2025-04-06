@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DTM_NETWORK")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DTM_SUPPORT_GROUP")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BTW_GHOULS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GHOULS_HERE")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -141,10 +141,10 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
+    "START_IMG_URL", "https://graph.org/file/a732b8518277b7ac33f7c-ed999b611fca2db0ce.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
+    "PING_IMG_URL", "https://graph.org/file/a732b8518277b7ac33f7c-ed999b611fca2db0ce.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/07b07fe0014a2872d6f31-e42fc799831a1543e4.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/8kifut.jpg"
